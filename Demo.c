@@ -2,5 +2,10 @@
 void main ()
 {
   printf("helloworld\n");
+<<<<<<< HEAD
   printf("WOcao");
+=======
+  int i = 0;
+  i++;
+>>>>>>> test
 }
